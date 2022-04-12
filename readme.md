@@ -111,11 +111,10 @@ By default air quality data is not returned. To get air quality data back in the
 
 Current weather or realtime weather API method allows a user to get up to date current weather information in json and xml. The data is returned as a Current Object.
 Current object contains current or realtime weather information for a given city.
-
 | Field | Description |
 | ------ | ------ |
-|temp_c  |Temperature in celsius|
-|condition:text |Weather condition text |
+| temp_c | Temperature in celsius |
+| condition:text |Weather condition text |
 | wind_mph | Wind speed in miles per hour |
 | wind_kph | Wind speed in kilometer per hour |
 | wind_dir | Wind direction as 16 point compass. e.g.: NSW |
