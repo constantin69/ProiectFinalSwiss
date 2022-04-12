@@ -116,7 +116,7 @@ class Current:
                        f"     Directia Vantului {self.win_dir}\n"
                        f"     Presiunea Atmosferica {self.pressure_mb} mb\n"
                        f"     Precipitatii {self.precip_mm} mm\n"
-                       f"     Umiditatea {self.humidity}\n\n")
+                       f"     Umiditatea {self.humidity} %\n\n")
 
 
 class Air:
