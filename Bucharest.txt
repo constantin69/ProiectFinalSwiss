@@ -1,0 +1,36 @@
+Locatia Bucharest
+
+     Orasul Bucuresti
+     Tara Romania
+     Latitudinea 44.43
+     Longitudinea 26.1
+     Zona Geografica Europe/Bucharest
+
+     Data si Ora 2022-04-13 02:30
+
+     Temperatura 6.0 grade Celsius
+     Conditii Senin
+     Viteza Vantului 10.5 mph
+     Directia Vantului N
+     Presiunea Atmosferica 1020.0 mb
+     Precipitatii 0.0 mm
+     Umiditatea 65 %
+
+Calitatea Aerului: 
+
+     Carbon Monoxide (g/m3)320.3999938964844 g/m3
+     Nitrogen dioxide 8.800000190734863 g/m3
+     Ozone 62.20000076293945 g/m3 
+     Sulphur dioxide 1.7999999523162842 g/m3
+     PM2.5 6.099999904632568 g/m3
+     PM2.5 8.0 g/m3
+     US - EPA standard 1
+     UK Defra Index 1
+                           See table below:
+                                           1 means Good
+                                           2 means Moderate
+                                           3 means Unhealthy for sensitive group
+                                           4 means Unhealthy
+                                           5 means Very Unhealthy
+                                           6 means Hazardous
+

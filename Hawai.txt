@@ -1,0 +1,133 @@
+Istoria zilei 2022-04-13
+     Temperatura maxima 14.8 grade Celsius
+     Temperatura minima 5.7 grade Celsius
+     Temperatura medie 10.5 grade Celsius
+     Preciptii totale 0.0 mm
+     Media vantului 10.0 km\ora
+     Conditii meteo Soare mb
+     UV 5.0
+
+     Soarele rasare la ora 06:35 AM
+     Soarele apune la ora 07:58 PM
+     Luna rasare la ora 04:06 PM
+     Luna apune la ora 05:27 AM
+     Fazele lunii Waxing Gibbous
+
+
+Istoria zilei 2022-04-12
+     Temperatura maxima 24.7 grade Celsius
+     Temperatura minima 13.6 grade Celsius
+     Temperatura medie 18.3 grade Celsius
+     Preciptii totale 0.0 mm
+     Media vantului 10.0 km\ora
+     Conditii meteo Soare mb
+     UV 8.0
+
+     Soarele rasare la ora 06:25 AM
+     Soarele apune la ora 07:21 PM
+     Luna rasare la ora 03:21 PM
+     Luna apune la ora 04:26 AM
+     Fazele lunii Waxing Gibbous
+
+
+Alerte
+
+     Titlul Wind Advisory issued April 12 at 8:37AM PDT until April 12 at 7:00PM PDT by NWS
+     Data inceperii 2022-04-12T13:00:00-07:00
+     Severitate Minor
+     Urgenta Expected
+     Zona Orange County Coastal; Orange County Inland; San Diego County Coastal Areas; San Diego County Inland Valleys
+     Evenimentul Wind Advisory
+     Data expirarii 2022-04-12T19:00:00-07:00
+     Descrierea ...WIND ADVISORY REMAINS IN EFFECT FROM 1 PM THIS AFTERNOON TO
+7 PM PDT THIS EVENING...
+* WHAT...West winds 10 to 20 mph with gusts to 35 mph expected.
+* WHERE...Orange County Coastal Areas, San Diego County Valleys,
+Orange County Inland Areas and San Diego County Coastal Areas.
+* WHEN...From 1 PM this afternoon to 7 PM PDT this evening.
+* IMPACTS...Gusty winds could blow around unsecured objects.
+Tree limbs could be blown down and a few power outages may
+result.
+
+
+Alerte
+
+     Titlul Beach Hazards Statement issued April 12 at 5:32AM PDT until April 13 at 11:00AM PDT by NWS
+     Data inceperii 2022-04-12T05:32:00-07:00
+     Severitate Moderate
+     Urgenta Expected
+     Zona Orange County Coastal; San Diego County Coastal Areas
+     Evenimentul Beach Hazards Statement
+     Data expirarii 2022-04-13T11:00:00-07:00
+     Descrierea ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH WEDNESDAY
+MORNING...
+* WHAT...Elevated surf of 3 to 5 feet. Sets to 7 feet possible in
+southern San Diego County, along with a high risk for rip
+currents.
+* WHERE...San Diego and Orange County Coastal Areas.
+* WHEN...Through 11 AM Wednesday.
+* IMPACTS...Elevated surf and strong rip currents will create
+hazardous swimming conditions.
+
+
+Alerte
+
+     Titlul NWS Oxnard (The Los Angeles Area)
+     Data inceperii 2022-04-12T17:12:00+00:00
+     Severitate 
+     Urgenta 
+     Zona 
+     Evenimentul Wind Advisory
+     Data expirarii 2022-04-13T16:00:00+00:00
+     Descrierea ...WIND ADVISORY IN EFFECT UNTIL 9 AM PDT WEDNESDAY...
+...HIGH WIND WARNING HAS EXPIRED...
+* WHAT...North winds 20 to 30 mph with gusts up to 50 mph.
+* WHERE...Ventura County Mountains and Los Angeles County
+Mountains.
+* WHEN...Until 9 AM PDT Wednesday.
+* IMPACTS...Gusty winds will blow around unsecured objects and
+make driving difficult, especially for high profile vehicles.
+Tree limbs could be blown down and a few power outages may
+result.
+
+
+Alerte
+
+     Titlul Wind Advisory issued April 12 at 10:12AM PDT until April 12 at 9:00PM PDT by NWS
+     Data inceperii 2022-04-12T10:12:00-07:00
+     Severitate Minor
+     Urgenta Expected
+     Zona Antelope Valley
+     Evenimentul Wind Advisory
+     Data expirarii 2022-04-12T21:00:00-07:00
+     Descrierea ...WIND ADVISORY REMAINS IN EFFECT UNTIL 9 PM PDT THIS EVENING...
+* WHAT...West to northwest winds 20 to 35 mph with gusts up to 50
+mph.
+* WHERE...Antelope Valley.
+* WHEN...Until 9 PM PDT this evening.
+* IMPACTS...Gusty winds will blow around unsecured objects and
+make driving difficult, especially for drivers of high profile
+vehicles. Tree limbs could be blown down and a few power
+outages may result. Areas of blowing dust could bring
+significant reduction in visibility.
+
+
+Alerte
+
+     Titlul High Surf Advisory issued April 12 at 2:58AM PDT until April 12 at 5:00PM PDT by NWS
+     Data inceperii 2022-04-12T02:58:00-07:00
+     Severitate Minor
+     Urgenta Expected
+     Zona Catalina and Santa Barbara Islands; Los Angeles County Beaches; Malibu Coast
+     Evenimentul High Surf Advisory
+     Data expirarii 2022-04-12T17:00:00-07:00
+     Descrierea ...HIGH SURF ADVISORY NOW IN EFFECT UNTIL 5 PM PDT THIS
+AFTERNOON...
+* WHAT...Large breaking waves of 5 to 8 feet with dangerous rip
+currents.
+* WHERE...Malibu Coast and Los Angeles County Beaches.
+* WHEN...Until 5 PM PDT this afternoon.
+* IMPACTS...There is an increased risk for ocean drowning. Rip
+currents can pull swimmers and surfers out to sea.
+
+

@@ -1,0 +1,16 @@
+Istoria zilei 2022-04-13
+     Temperatura maxima 14.8 grade Celsius
+     Temperatura minima 5.7 grade Celsius
+     Temperatura medie 10.5 grade Celsius
+     Preciptii totale 0.0 mm
+     Media vantului 10.0 km\ora
+     Conditii meteo Soare mb
+     UV 5.0
+
+     Soarele rasare la ora 06:35 AM
+     Soarele apune la ora 07:58 PM
+     Luna rasare la ora 04:06 PM
+     Luna apune la ora 05:27 AM
+     Fazele lunii Waxing Gibbous
+
+

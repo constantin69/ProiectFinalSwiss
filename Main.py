@@ -1,5 +1,4 @@
-import Api
-from Api import response, location, numar, clear_console
+from Api import response, location, numar, clear_console, introduce_location, introduce_limba, introduce_numar, Api
 from Forescast import info_forecast, info_forecast_info
 from Crearecsv import creare_csv
 from Program import citire_location, citire_current, citire_air_quality
@@ -31,9 +30,11 @@ while True:
         continue
 
     if x == 4:
-        location = Api.introduce_location()
-        limba = Api.introduce_limba()
-        numar = Api.introduce_numar()
+        location = introduce_location()
+        limba = introduce_limba()
+        numar = introduce_numar()
+        a = Api(location, numar, limba)
+        response = a.get_location()
         clear_console()
         continue
 

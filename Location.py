@@ -204,6 +204,5 @@ class Alert:
                        f"     Urgenta {self.urgency}\n"
                        f"     Zona {self.areas}\n"
                        f"     Evenimentul {self.event}\n"
-                       f"     Data inceperii {self.effective}\n"
                        f"     Data expirarii {self.expires}\n"
                        f"     Descrierea {self.desc}\n\n\n")
