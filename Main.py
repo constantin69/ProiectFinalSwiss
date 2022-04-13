@@ -42,5 +42,3 @@ while True:
         exit()
 
     break
-# app.diagrams.net
-# readme.md
