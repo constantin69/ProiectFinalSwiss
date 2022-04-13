@@ -3,6 +3,71 @@
 
 ![N|Solid](	https://cdn.weatherapi.com/v4/images/weatherapi_logo.png)
 
+1. Titlul proiectului
+Weather api
+Prognoza meteo JSON
+
+Acesta este numele proiectului. Prin acest proiect am dorit sa arat modul in care este folosit un api, aici am folosit WeatherAPI.com. 
+WeatherAPI.com este un puternic furnizor gratuit de API pentru vreme, care oferă API-uri extinse care variază de la prognoza meteo în timp real, vremea istorică, datele despre calitatea aerului, căutarea IP, fus orar și altele.
+ 
+2. Descrierea proiectului
+
+Adresa URL de baza pe care o folosesc in acest proiect este:
+http://api.weatherapi.com/v1
+
+Parametrii pe care i-am folosit in cadrul acestui URL sunt dati de la tastatura, acestia sunt:
+Location 
+Obiectul de locație este returnat cu fiecare răspuns API. Este de fapt locația potrivită pentru 
+care au fost returnate informațiile.
+
+Limba
+Reprezinta limba care va fi folostita la afisarea informatiilor;
+
+- numar = reprezinta numarul de zile pentru prognoza meteo.
+
+
+
+Descrierea ta este un aspect extrem de important al proiectului tau. O descriere bine realizată vă permite să vă prezentați munca altor dezvoltatori, precum și potențialilor angajatori.
+
+Calitatea unei descrieri README diferențiază adesea un proiect bun de un proiect prost. Unul bun profită de oportunitatea pentru a explica și prezenta:
+
+    Ce face aplicația dvs.,
+    De ce ați folosit tehnologiile pe care le-ați folosit,
+    Unele dintre provocările cu care te-ai confruntat și funcții pe care speri să le implementezi în viitor.
+
+3. Cuprins (Opțional)
+
+Dacă README-ul dvs. este foarte lung, este posibil să doriți să adăugați un cuprins pentru a facilita navigarea cu ușurință a utilizatorilor la diferite secțiuni. Va fi mai ușor pentru cititori să se deplaseze cu ușurință prin proiect.
+4. Cum se instalează și se rulează proiectul
+
+Dacă lucrați la un proiect pe care un utilizator trebuie să-l instaleze sau să ruleze local într-o mașină precum un „POS”, ar trebui să includeți pașii necesari pentru a vă instala proiectul și, de asemenea, dependențele necesare, dacă există.
+
+Furnizați o descriere pas cu pas a modului de setare și de funcționare a mediului de dezvoltare.
+5. Cum se utilizează proiectul
+
+Furnizați instrucțiuni și exemple pentru ca utilizatorii/contribuitorii să poată utiliza proiectul. Acest lucru le va face mai ușor în cazul în care întâmpină o problemă – vor avea întotdeauna un loc pentru a face referire la ceea ce se așteaptă.
+
+De asemenea, puteți utiliza ajutoare vizuale incluzând materiale precum capturi de ecran pentru a afișa exemple ale proiectului în derulare și, de asemenea, structura și principiile de proiectare utilizate în proiectul dvs.
+
+De asemenea, dacă proiectul dvs. va necesita autentificare, cum ar fi parole sau nume de utilizator, aceasta este o secțiune bună pentru a include acreditările.
+6. Include credite
+
+Dacă ați lucrat la proiect ca o echipă sau o organizație, enumerați colaboratorii/membrii echipei. De asemenea, ar trebui să includeți link-uri către profilurile lor GitHub și rețelele sociale.
+
+De asemenea, dacă ați urmat tutoriale sau ați făcut referire la un anumit material care l-ar putea ajuta pe utilizator să construiască acel proiect anume, includeți și linkuri către cele de aici.
+
+Acesta este doar o modalitate de a-ți arăta aprecierea și, de asemenea, de a-i ajuta pe alții să obțină o copie de primă mână a proiectului.
+7. Adăugați o licență
+
+Pentru majoritatea fișierelor README, aceasta este de obicei considerată ultima parte. Le permite altor dezvoltatori să știe ce pot și nu pot face cu proiectul dvs.
+
+Avem diferite tipuri de licențe, în funcție de tipul de proiect la care lucrați. În funcție de cel pe care îl vei alege, acesta va determina contribuțiile pe care le primește proiectul tău.
+
+Cea mai comună este Licența GPL, care permite altora să modifice codul dvs. și să-l folosească în scopuri comerciale. Dacă aveți nevoie de ajutor pentru a alege o licență, consultați acest link: https://choosealicense.com/
+
+Până în acest moment, ceea ce am acoperit sunt cerințele minime pentru un bun README. Dar ar putea dori, de asemenea, să luați în considerare adăugarea următoarelor secțiuni pentru a o face mai atrăgătoare și mai interactivă.
+
+
 WeatherAPI.com is a powerful fully managed free weather and geolocation API provider that provides extensive APIs that range from the realtime and weather forecast, historical weather, Air Quality Data, IP lookup, and astronomy through to sports, time zone, and geolocation.
 WeatherAPI.com provides access to weather and geo data via a JSON/XML restful API. It allows developers to create desktop, web and mobile applications using this data very easy.
 
