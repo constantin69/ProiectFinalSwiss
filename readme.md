@@ -202,9 +202,9 @@ The install command reads the pyproject.toml file from the current project, reso
 poetry install
 ```
 
+- Plotly's Python graphing library 
 ```sh
 python -m pip install requests
-- Plotly's Python graphing library 
 
 ```sh
 pip install plotly==5.7.0 
