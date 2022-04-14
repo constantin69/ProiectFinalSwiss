@@ -17,9 +17,18 @@ def info_forecast():
 
         for i in hour:
             time = i["time"].split()
+            d = time[0]
+            day = int(d[8:10])
+            an = int(d[0:4])
+            luna = int(d[6:7])
+
             my_dict = dict()
             my_dict["date"] = time[0]
             my_dict["hour"] = time[1]
+            my_dict["an"] = an
+            my_dict["luna"] = luna
+            my_dict["day"] = day
+
             my_dict["temp_c"] = i["temp_c"]
             my_dict["condition"] = i["condition"]["text"]
             my_dict["wind_mph"] = i["wind_mph"]

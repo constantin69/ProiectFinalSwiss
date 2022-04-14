@@ -74,8 +74,8 @@ class Current_day:
                        f"     Temperatura medie {self.avgtemp_c} grade Celsius\n"
                        f"     Preciptii totale {self.totalprecip_mm} mm\n"
                        f"     Media vantului {self.avgvis_km} km\ora\n"
-                       f"     Conditii meteo {self.condition_date} mb\n"
-                       f"     UV {self.uv}\n\n"
+                       f"     Conditii meteo {self.condition_date}\n"
+                       f"     UV {self.uv} %\n\n"
                        f"     Soarele rasare la ora {self.sunrise}\n"
                        f"     Soarele apune la ora {self.sunset}\n"
                        f"     Luna rasare la ora {self.moonrise}\n"
@@ -89,6 +89,9 @@ class Current:
 
         :param name: string	 Location name
         :param last_updated: string  Local date and time
+        :param an: int Anul
+        :param luna: int Luna
+        :param zi: int Ziua
         :param temp_c: float  Temperatura in grade Celsius
         :param wind_mph: float  Viteza vantului in mph
         :param win_dir: string  Directia vantului

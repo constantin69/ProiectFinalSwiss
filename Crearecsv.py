@@ -54,4 +54,3 @@ def afisare_grafic(location):
         barchat.show()
         barchat.write_image(f"{day+2}.png")
 
-

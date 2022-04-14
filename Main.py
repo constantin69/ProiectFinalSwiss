@@ -1,8 +1,9 @@
 from Api import response, location, numar, clear_console, introduce_location, introduce_limba, introduce_numar, Api
 from Forescast import info_forecast, info_forecast_info
-from Crearecsv import creare_csv
+from Crearecsv import creare_csv, afisare_grafic
 from Program import citire_location, citire_current, citire_air_quality
 from Alerts import afisare_alerts
+from search import sortare
 
 response = response
 
@@ -20,6 +21,7 @@ while True:
     if x == 2:
         my_list = info_forecast()
         creare_csv(my_list, location)
+        afisare_grafic(location)
         clear_console()
         continue
 
@@ -30,9 +32,10 @@ while True:
         continue
 
     if x == 4:
-        location = introduce_location()
-        limba = introduce_limba()
-        numar = introduce_numar()
+        location = input("Introduceti un oras in limba Engleza: ")
+        lim = input("Alegeti limba: ")
+        limba = sortare(lim)
+        numar = int(input("Pentru prognoza meteo alegeti un numar de zile (1 - 3): "))
         a = Api(location, numar, limba)
         response = a.get_location()
         clear_console()
