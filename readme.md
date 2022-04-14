@@ -63,7 +63,7 @@ To present temperature charts within 24 hours, the information is taken from the
 Forecast API returns alerts and warnings issued by government agencies (USA, UK, Europe and Rest of the World) as an array if available for the location provided through the Forecast API.
 
 ##### Example response of alerts
-
+'''
 "alerts":{
     "alert":[
         {
@@ -77,7 +77,7 @@ Forecast API returns alerts and warnings issued by government agencies (USA, UK,
         "expires":"2021-01-07T06:15:00-05:00",
         "desc":"...The Flood Warning continues for the following rivers in South\nCarolina...\nCongaree River At Carolina Eastman affecting Richland, Calhoun\nand Lexington Counties.\nCongaree River At Congaree National Park-Gadsden affecting\nCalhoun and Richland Counties.\nNorth Fork Edisto River At Orangeburg affecting Orangeburg County.\n...This crest compares to a previous crest of 116.3\nfeet on 12/03/2020.\n&&",
         },
-
+'''
 
 ##### Air Quality Data
 
