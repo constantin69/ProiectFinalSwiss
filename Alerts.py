@@ -28,7 +28,6 @@ def info_alerts():
 my_list = info_alerts()
 
 
-
 def afisare_alerts(my_list):
     my_l = list()
     limit = len(my_list)
@@ -50,5 +49,6 @@ def afisare_alerts(my_list):
         alert = Alert(my_dict["headline"], my_dict["severity"], my_dict["urgency"], my_dict["areas"], my_dict["event"],
                       my_dict["effective"], my_dict["expires"], my_dict["desc"])
         alert.afisare_info_alerts()
+
 
 
