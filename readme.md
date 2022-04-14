@@ -1,7 +1,7 @@
 # Weather api
 ## _Weather Forecast JSON_
 
-![N|Solid](	https://cdn.weatherapi.com/v4/images/weatherapi_logo.png)
+![N|Solid](https://github.com/constantin69/ProiectFinalSwiss/raw/master/Arch%20diagram.png)
 
 1. Titlul proiectului
 Weather api
